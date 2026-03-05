@@ -34,11 +34,9 @@ Collaborative and content-based filtering to suggest books using **machine learn
 
 ---
 
-## 📊 GitHub Stats
 
-![Sharayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharayuDharme&show_icons=true&theme=tokyonight)
 
----
+
 
 ## 🔥 GitHub Streak
 
@@ -46,11 +44,7 @@ Collaborative and content-based filtering to suggest books using **machine learn
 
 ---
 
-## 📈 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharayuDharme&layout=compact&theme=tokyonight)
-
----
 
 ## 🤝 Connect With Me
 
